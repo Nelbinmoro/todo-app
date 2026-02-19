@@ -1,1 +1,11 @@
-backend/ 
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
